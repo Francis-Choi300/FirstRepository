@@ -9,4 +9,5 @@
  */
 public class Parttime {
     private String days;
+    private int hours;
 }
